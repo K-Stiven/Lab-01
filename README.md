@@ -1,4 +1,4 @@
 Integrantes:
-Luis Alfredo Olaya Requenet
+Luis Alfredo Olaya Requenet - Kevin Stiven Moreno
 ---------------------------------------------------------------------
-Stiven Moreno
+
